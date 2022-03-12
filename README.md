@@ -6,4 +6,6 @@ obs : rtmp://localhost/live abc
 
 http://localhost:8000/live/abc.flv
 
+install open ssl
+
 
