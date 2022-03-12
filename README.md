@@ -1,5 +1,12 @@
 # Stream-Server
 
+
+clone project
+
+npm install
+
+node app.js
+
 http://localhost:8000/admin
 
 obs : rtmp://localhost/live abc
